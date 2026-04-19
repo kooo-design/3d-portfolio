@@ -65,9 +65,9 @@ const AppShowcase = () => {
           <div className="project-list-wrapper overflow-hidden">
             <div className="project" ref={libraryRef}>
               <div className="image-wrapper bg-[#FFEFDB]">
-                <img src="/images/tour.png" alt="Library Management Platform" />
+                <img src="/images/ecom.png" alt="Library Management Platform" />
               </div>
-              <h2>Tour & Travel Platform</h2>
+              <h2>E-Commerce Platform</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
