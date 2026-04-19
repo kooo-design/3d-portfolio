@@ -53,12 +53,11 @@ const AppShowcase = () => {
             </div>
             <div className="text-content">
               <h2>
-                On-Demand Rides Made Simple with a Powerful, User-Friendly App
-                called Ryde
+                Express Your Feelings Freely with a Safe, User-Friendly Platform
+                called FeelsQuest
               </h2>
               <p className="text-white-50 md:text-xl">
-                An app built with React Native, Expo, & TailwindCSS for a fast,
-                user-friendly experience.
+                An design built with Figma, user-friendly experience.
               </p>
             </div>
           </div>
@@ -68,14 +67,14 @@ const AppShowcase = () => {
               <div className="image-wrapper bg-[#FFEFDB]">
                 <img src="/images/tour.png" alt="Library Management Platform" />
               </div>
-              <h2>The Library Management Platform</h2>
+              <h2>Tour & Travel Platform</h2>
             </div>
 
             <div className="project" ref={ycDirectoryRef}>
               <div className="image-wrapper bg-[#FFE7EB]">
                 <img src="/images/parallax1.png" alt="YC Directory App" />
               </div>
-              <h2>YC Directory - A Startup Showcase App</h2>
+              <h2>Parallax Scrolling Design</h2>
             </div>
           </div>
         </div>
