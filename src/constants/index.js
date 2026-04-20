@@ -172,19 +172,19 @@ const expCards = [
       "Contributed to design systems and reusable components to maintain consistency across products.",
     ],
   },
-  // {
-  //   review:
-  //     "Ricky Rohaendi’s work as a Frontend UI Engineer on mobile applications brought a high level of quality and efficiency. He delivered well-crafted solutions that enhanced the overall user experience while aligning closely with product goals.",
-  //   imgPath: "/images/react1.png",
-  //   logoPath: "/images/react2.png",
-  //   title: "Front End UI Engineer",
-  //   date: "June 2025 - August 2025",
-  //   responsibilities: [
-  //     "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
-  //     "Improved app performance and user experience through code optimization and testing.",
-  //     "Coordinated with the product team to implement features based on feedback.",
-  //   ],
-  // },
+  {
+    review:
+      "Ricky Rohaendi’s work as a Frontend UI Engineer on mobile applications brought a high level of quality and efficiency. He delivered well-crafted solutions that enhanced the overall user experience while aligning closely with product goals.",
+    imgPath: "/images/react1.png",
+    logoPath: "/images/react2.png",
+    title: "Front End UI Engineer",
+    date: "June 2025 - August 2025",
+    responsibilities: [
+      "Built cross-platform mobile apps using React Native, integrating with Appwrite's backend services.",
+      "Improved app performance and user experience through code optimization and testing.",
+      "Coordinated with the product team to implement features based on feedback.",
+    ],
+  },
   {
     review:
       "Ricky Rohaendi’s work as a Freelance Web Developer consistently delivered high-quality and efficient solutions. He created websites that enhanced user experience while aligning closely with client needs and business goals.",
